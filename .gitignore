@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+#emacs cache
+*~
+
+# Output directory
+build/*
